@@ -9,9 +9,9 @@ enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
+enableRecentNotes: true
 enableGitHubEdit: true
-GitHubLink: https://github.com/vizance/digital-garden/content
+GitHubLink: https://github.com/vizance/digital-garden/blob/hugo/content
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
