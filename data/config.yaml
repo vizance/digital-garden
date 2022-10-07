@@ -1,6 +1,6 @@
-name: Jacky Zhao
+name: 朱騏 (Henry Chu)
 enableToc: true
-openToc: false
+openToc: true
 enableLinkPreview: true
 enableLatex: true
 enableCodeBlockTitle: true
@@ -11,16 +11,20 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/vizance/digital-garden/content
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  Here is Henry Chu's digital garden. You can explore some great ideas by roaming through the website.
 page_title:
-  "🪴 Quartz 3.3"
+  "🪴 Digital Garden"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+  - link_name: Website
+    link: https://chichu.co
+  - link_name: Facebook
+    link: https://www.facebook.com/profile.php?id=100000715490868
+  - link_name: Medium
+    link: https://medium.com/pm%E7%9A%84%E7%94%9F%E7%94%A2%E5%8A%9B%E5%B7%A5%E5%85%B7%E7%AE%B1
+  - link_name: LinkedIn
+    link: https://www.linkedin.com/in/chi-chu-639575102/
+  
