@@ -1,8 +1,8 @@
 ---
-title: 你是如何看待筆記的
-date: 2022-10-08 12:48
+title: "你是如何看待筆記的"
+date: "2022-10-08"
 aliases : []
-tags: Note
+tags: Question
 ---
 
 若要發揮筆記 (note) 的價值，我們必須改變看待筆記的視角。
