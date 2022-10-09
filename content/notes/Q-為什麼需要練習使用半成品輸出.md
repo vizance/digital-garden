@@ -5,9 +5,10 @@ aliases : []
 tags: Question
 ---
 
-問題來自於 -> [[notes/A-寫作輸出的 3 種面向 - 規劃品、半成品、完成品]]
 
----
+> [!NOTE] Note
+> 
+> 問題來自於 -> [[notes/A-寫作輸出的 3 種面向 - 規劃品、半成品、完成品]]
 
 參考 [⭐️原子短文，是結合了溝通與表達的極佳文體 - Mura Idea - Obsidian Publish](https://publish.obsidian.md/muraidea/%E2%AD%90%EF%B8%8F%E5%8E%9F%E5%AD%90%E7%9F%AD%E6%96%87%EF%BC%8C%E6%98%AF%E7%B5%90%E5%90%88%E4%BA%86%E6%BA%9D%E9%80%9A%E8%88%87%E8%A1%A8%E9%81%94%E7%9A%84%E6%A5%B5%E4%BD%B3%E6%96%87%E9%AB%94) 的想法，練習半成品輸出是因為半成品包含了「溝通」與「表達」兩部分。
 
