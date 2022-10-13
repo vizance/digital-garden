@@ -5,3 +5,7 @@
 title: <%* tR += title %>
 date: <% tp.file.creation_date("YYYY-MM-DD") %>
 ---
+
+- 1
+- 2
+- 3

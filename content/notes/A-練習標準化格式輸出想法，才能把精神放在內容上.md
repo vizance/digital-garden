@@ -2,8 +2,8 @@
 title: "A-練習標準化格式輸出想法，才能把精神放在內容上"
 date: "2022-10-08"
 aliases : []
-tags: Answer
 ---
+#Writing 
 
 寫作包含兩件事：寫作與編輯。
 
