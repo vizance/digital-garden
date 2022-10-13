@@ -2,8 +2,8 @@
 title: "Q-為什麼需要練習使用半成品輸出"
 date: "2022-10-09"
 aliases : []
+tags: Writing 
 ---
-#Writing 
 
 > [!NOTE] Note
 > 

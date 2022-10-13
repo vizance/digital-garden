@@ -2,8 +2,8 @@
 title: "Q-如何將文章內容格式轉換成簡報 ?"
 date: "2022-10-13"
 aliases : []
+tags: Writing 
 ---
-#Writing 
 
 文字是任何 output 的基礎，只要有固定的排版格式就能依據特殊規則轉換成不同的 output 內容。
 
