@@ -1,5 +1,5 @@
 ---
-title: A-對話體現在創作的"
+title: "A-思考問題的方法，靠的是對話"
 date: "2022-10-14"
 aliases: []
 tags: Thinking
