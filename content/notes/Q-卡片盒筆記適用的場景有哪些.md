@@ -1,5 +1,5 @@
 ---
-title: A-卡片盒筆記適合用來寫作，但不適合用來考試讀書"
+title: "A-卡片盒筆記適合用來寫作，但不適合用來考試讀書"
 date: "2022-10-15"
 aliases: []
 tags: NoteTaking

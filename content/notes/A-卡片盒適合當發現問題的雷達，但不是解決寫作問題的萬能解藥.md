@@ -1,5 +1,5 @@
 ---
-title: A-卡片盒問題雷達 vs 萬能解藥"
+title: "A-卡片盒問題雷達 vs 萬能解藥"
 date: "2022-10-15"
 aliases: []
 tags: NoteTaking

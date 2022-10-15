@@ -1,5 +1,5 @@
 ---
-title: A-卡片盒適合連結思想，但不適合收集資訊"
+title: "A-卡片盒適合連結思想，但不適合收集資訊"
 date: "2022-10-15"
 aliases: []
 tags: NoteTaking
