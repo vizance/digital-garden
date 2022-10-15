@@ -1,5 +1,5 @@
 ---
-title: "A-卡片盒問題雷達 vs 萬能解藥"
+title: "A-卡片盒適合當發現問題的雷達，但不是解決寫作問題的萬能解藥"
 date: "2022-10-15"
 aliases: []
 tags: NoteTaking
