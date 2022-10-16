@@ -2,7 +2,7 @@
 title: "A-分析文 (以前,過去)"
 date: "2022-10-16"
 aliases: []
-tags:Writing
+tags: Writing
 ---
 
 著重在某個主題的「過去」與「現在」對比。
