@@ -1,5 +1,5 @@
 ---
-title: "A-分析文 (以前,過去)"
+title: "A-短文寫法-分析文 (以前,過去)"
 date: "2022-10-16"
 aliases: []
 tags: Writing
