@@ -2,7 +2,7 @@
 title: "A-短文寫法-觀察文 (條列自己觀察到的特質)"
 date: "2022-10-16"
 aliases: []
-tags:
+tags: Writing
 ---
 
 我觀察到哪些有趣的事實。

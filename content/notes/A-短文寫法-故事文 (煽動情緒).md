@@ -2,7 +2,7 @@
 title: "A-短文寫法-故事文 (煽動情緒)"
 date: "2022-10-16"
 aliases: []
-tags:
+tags: Writing
 ---
 
 用比較情緒化的方式傳達觀點。
