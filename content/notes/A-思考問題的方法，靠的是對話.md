@@ -17,7 +17,7 @@ tags: Thinking
 
 > [!NOTE] Note
 > 
-> Question > [[Q-對話的形式有哪些]]
+> Question > [[notes/Q-對話的形式有哪些]]
 
 
 
