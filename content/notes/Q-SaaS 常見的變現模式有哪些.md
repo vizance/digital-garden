@@ -1,5 +1,5 @@
 ---
-title: "A-SaaS 的常見變現模式 (模式)"
+title: "Q-SaaS 常見的變現模式有哪些"
 date: "2022-10-13"
 aliases: []
 tags: SaaS
