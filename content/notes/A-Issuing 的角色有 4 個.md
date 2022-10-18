@@ -1,5 +1,5 @@
 ---
-title: "Issuing 的角色有 4 個"
+title: "A-Issuing 的角色有 4 個"
 date: "2022-10-18"
 tags: SaaS
 ---
@@ -12,4 +12,4 @@ tags: SaaS
 3. Cardholder: 信用卡持有者，即消費者
 4. Issuing bank (發卡銀行): 消費者手上信用卡的發卡機構
 
-Next > [[notes/Card Network 的角色是負責找願意發行信用卡的業者、授權他們發行信用卡|Card Network。(信用卡網絡)]]
+Next > [[notes/A-Card Network 的角色是負責找願意發行信用卡的業者、授權他們發行信用卡|Card Network。(信用卡網絡)]]

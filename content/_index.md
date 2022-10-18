@@ -1,4 +1,3 @@
-長什麼樣子
 ---
 title: 🪴 Homepage
 enableToc: false

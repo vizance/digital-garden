@@ -27,3 +27,4 @@
 - SaaS
 	- [[notes/Q-有哪些研究 SaaS 產品不錯的資源]]
 		- [[notes/Q-SaaS 常見的變現模式有哪些]]
+		- [[notes/Q-Payment Ecosystem (支付生態圈) 長什麼樣子]]

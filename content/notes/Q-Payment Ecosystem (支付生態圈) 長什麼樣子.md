@@ -11,8 +11,8 @@ tags: SaaS
 
 支付的生態圈主要有 3大角色: 
 - [[notes/A-Acquiring 的角色有 5 個|Acquiring (收單)]]
-- [[notes/Issuing 的角色有 4 個|Issuing (發卡)]]
-- [[notes/Card Network 的角色是負責找願意發行信用卡的業者、授權他們發行信用卡|Card Network。(信用卡網絡)]]
+- [[notes/A-Issuing 的角色有 4 個|Issuing (發卡)]]
+- [[notes/A-Card Network 的角色是負責找願意發行信用卡的業者、授權他們發行信用卡|Card Network。(信用卡網絡)]]
 
 ![payments ecosystem|500](https://cdn.jsdelivr.net/gh/vizance/image/202210181706286.png)
 

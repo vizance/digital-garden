@@ -1,5 +1,5 @@
 ---
-title: "Card Network 的角色有哪些呢"
+title: "A-Card Network 的角色有哪些呢"
 date: "2022-10-18"
 tags: SaaS
 ---
