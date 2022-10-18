@@ -1,3 +1,4 @@
+長什麼樣子
 ---
 title: 🪴 Homepage
 enableToc: false
@@ -23,3 +24,4 @@ Thread 是思考較為完整的內容，可以單獨看、也可以合在一起�
 - [[notes/Q-卡片盒筆記適用的場景有哪些]]
 - [[notes/Q-如何思考問題]]
 - [[notes/Q-有哪些研究 SaaS 產品不錯的資源]]
+- [[notes/Q-Payment Ecosystem (支付生態圈) 長什麼樣子]]
