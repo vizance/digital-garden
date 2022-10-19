@@ -7,7 +7,8 @@ tags: SaaS
 ## Acquiring 的角色有 5 個
 
 主要有 5 個角色:
-1. **ISO/MSP (Independent sales organization/ Member service provider)**
+
+### 1. **ISO/MSP (Independent sales organization/ Member service provider)**
 
 第三方支付公司，被授權可處理某家企業的信用卡交易。
 
@@ -24,7 +25,7 @@ tags: SaaS
 
 ISO/MSP 會跟 Payment Gateway 合作，當商家產生交易時將交易資訊拋送給 Payment Gateway 處理。
 
-2. **Payment Gateway (支付閘道)**
+### 2. **Payment Gateway (支付閘道)**
 
 處理付款資訊的資訊商。
 
@@ -32,7 +33,7 @@ ISO/MSP 會跟 Payment Gateway 合作，當商家產生交易時將交易資訊�
 - 國外: PayPal, Stripe, worldpay from FIS, Klarna, Aden, Alipay, nmi, amazon payments
 - 台灣: 藍新、綠界、紅陽、ezPay 台灣支付、TapPay、GMO
 
-3. **Acquiring Processor (收單處理機構)**
+### 3. **Acquiring Processor (收單處理機構)**
 
 [「Acquiring (收單)」指提供刷卡機（或是網路刷卡機制）給店家（稱為特約商店）的機構](https://www.mypay.com.tw/main_article1.html)。
 
@@ -42,8 +43,7 @@ ISO/MSP 會跟 Payment Gateway 合作，當商家產生交易時將交易資訊�
 - 國外: Aden, risers, worldpay from FIS, Elavon, FirstData, global payments, First American, PayPal
 - 台灣: 大型銀行通常都是、聯合信用卡處理中心、[環匯](https://www.bnext.com.tw/article/56540/global-payments-strategy)
 
-4. **Merchant Account (商戶在銀行的帳號)**
-
-5. **Acquiring bank (收單銀行)**: 提供商戶在銀行的帳戶，可用來收取消費者付費的款項。
+### 4. **Merchant Account (商戶在銀行的帳號)**
+### 5. **Acquiring bank (收單銀行)**: 提供商戶在銀行的帳戶，可用來收取消費者付費的款項。
 
 Next > [[notes/A-Issuing 的角色有 4 個|Issuing (發卡)]]
