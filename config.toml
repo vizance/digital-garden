@@ -1,6 +1,6 @@
 baseURL = "https://chichu.me"
 languageCode = "en-us"
-googleAnalytics = "G-XYFD95KB4J"
+googleAnalytics = "G-41TWYGC0J3"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
