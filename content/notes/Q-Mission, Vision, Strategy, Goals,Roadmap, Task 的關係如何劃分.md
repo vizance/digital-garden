@@ -5,7 +5,7 @@ aliases: []
 tags: SaaS
 ---
 
-有 9 成的書籍都會提到這些名詞，但是它們之間到底有什麼關係?
+# 有 9 成的書籍都會提到這些名詞，但是它們之間到底有什麼關係?
 
 **為什麼它很重要:** 釐清這些商業書籍上常見的名詞，才能懂思考這些內容的意義。
 
@@ -21,6 +21,7 @@ Mission → Vision → Strategy → Goals → Roadmap → Task，公司經營和
 
 
 > [!info] Reference
+> 
 > [Mission → Vision → Strategy → Goals → Roadmap → Task (lennysnewsletter.com)](https://www.lennysnewsletter.com/p/mission-vision-strategy-goals-roadmap?utm_source=email)
 
 
