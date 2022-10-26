@@ -58,3 +58,5 @@ SaaS 產品變現的方式非常多元，[[notes/P-Pieter Levels]] 分享了 10 
 	- 例如
 		- Typeform
 			- 原先是創辦人 David Okuniev，為了某家馬桶公司展覽需要而建立的表單工具
+
+這讓我想到 [[notes/Q-Mission, Vision, Strategy, Goals,Roadmap, Task 的關係如何劃分|釐清公司不同規模的計畫]] 很重要。

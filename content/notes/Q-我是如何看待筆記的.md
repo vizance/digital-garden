@@ -9,7 +9,7 @@ tags: NoteTaking
 
 視角有 3 種：
 1. 藝術品，例如塗鴉筆記 (sketch-noting)
-2. 對話，例如卡片盒筆記法 (zettelkasten)
+2. 對話，例如 [[notes/Q-卡片盒筆記適用的場景有哪些|卡片盒筆記法 (zettelkasten)]]
 3. 提醒，例如隨手紀錄 (memo)
 
 第一種是對外分享的價值，第二種是對內思考的價值，第三種沒有創造價值。
