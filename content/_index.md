@@ -7,7 +7,7 @@ enableToc: false
 
 這裡是我的數位花園 (digital Garden)，歡迎隨意逛逛! 
 
-若你想跟我交流想法，歡迎透過 <a href="mailto:muhenry608@gmail.com">📫 Email</a> 與我聯繫
+若你想跟我交流想法，歡迎透過 <a href="mailto:muhenry608@gmail.com">📫 Email (muhenry608@gmail.com)</a> 與我聯繫
 
 ## 我想在這個網站寫什麼東西
 - 這個網站是由 Quartz 為基礎建立的，架設環境為 Hugo 。詳細的建立說明可參考 [🔗 Quartz 3. (jzhao.xyz)](https://quartz.jzhao.xyz/)
