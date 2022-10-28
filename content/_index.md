@@ -14,7 +14,7 @@ enableToc: false
 - 我主要使用此網站練習 [[notes/A-寫作輸出的 3 種面向 - 規劃品、半成品、完成品|半成品]] 的寫作，目的是幫助自己整理想法、也為讀者提供價值作準備
 - 在寫作時，我參考 Dickie Bush & Nicolas Cole 在 Ship 30 for 30 的寫作原則，用寫 Twitter Thread 的方式練習「最小表達」
 
-## 目前寫下的 Twitter
+## 目前寫下的 Thread
 
 Thread 是思考較為完整的內容，可以單獨看、也可以合在一起看。👇
 
