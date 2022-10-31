@@ -1,5 +1,5 @@
 ---
-title: "Q-使用卡片盒筆記的操作注意事項"
+title: "Q-使用卡片盒筆記的操作注意事項有哪些"
 date: "2022-10-26"
 aliases: []
 tags: NoteTaking
