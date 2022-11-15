@@ -10,11 +10,15 @@ tags: Writing
 針對 (2) 內容的部分，可以列出 3 的 Idea 當作主要內容。針對 3 個 Idea，有哪些固定的模版可以使用呢 ? 
 
 參考 Justin Welsh 在 [Justin Welsh | The Content Operating System](https://www.justinwelsh.me/the-content-os) 中提到的短文模版概念，以及 Nicolas Cole 在 [The Art and Business of Online Writing](https://www.amazon.com/Art-Business-Online-Writing-Capturing/dp/0998203491) 提到的 1/3/1 短文格式，可以使用的模版有：
-- [[notes/A-短文寫法-分析文 (以前,過去)]]
-- [[notes/A-短文寫法-反觀念文 (凸顯個人觀點)]]
-- [[notes/A-短文寫法-清單文 (條列項目)]]
-- [[notes/A-短文寫法-觀察文 (條列自己觀察到的特質)]]
-- [[notes/A-短文寫法-故事文 (煽動情緒)]]
-- [[notes/A-短文寫法-5 個常用案例格式]]
+- [[notes/A-內容原子框架-分析文 (以前,過去)]]
+- [[notes/A-內容原子框架-反觀念文 (凸顯個人觀點)]]
+- [[notes/A-內容原子框架-清單文 (條列項目)]]
+- [[notes/A-內容原子框架-觀察文 (條列自己觀察到的特質)]]
+- [[notes/A-內容原子框架-故事文 (煽動情緒)]]
+- [[notes/A-內容原子框架-5 個常用案例格式]]
 
 使用這些短文格式，就可以寫出精彩的內容。
+
+案例有: 
+- The steal club
+	-  ![thestealclub|300](https://cdn.jsdelivr.net/gh/vizance/image/202211071720751.png)
